@@ -3,8 +3,7 @@ package org.example.hw1.task1;
 /**
  * ЗАДАНИЕ 1
  * Создать builder для класса Person со следующими полями:
- * String firstName, String lastName, String middleName,
- * String country, String address, String phone, int age, String gender.
+ * String firstName, String lastName, String middleName, String country, String address, String phone, int age, String gender.
  */
 public class Person {
     private String firstName;
